@@ -28,7 +28,7 @@ const SideNav = () => {
         <nav className="h-[500px] w-fit bg-slate-950 p-4 flex flex-col items-center gap-2">
             {/* Temp logo from https://logoipsum.com/ */}
             <svg
-                width="40"
+                width="100"
                 height="28"
                 viewBox="0 0 40 28"
                 fill="none"
